@@ -11,3 +11,9 @@
 Direct Test on main
 Direct Test on main
 Changing by PR
+
+## Configurações do Sistema
+	- Ambiente: produção
+	- Porta: 8080
+	- Timeout: 30s
+	- Max connections: 1000
